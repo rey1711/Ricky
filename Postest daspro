@@ -18,8 +18,8 @@ elif operasi == "pon":
     hasil = Angka * 2.20462
     print (hasil)
 elif operasi == "ons":
-    hasil = Angka * 35.271
-    print (hasil)
+    hasil= Angka * 10 
+    print (hasil,)
 else :
     print ("hasil tidak diketahui")
     
